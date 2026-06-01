@@ -74,8 +74,7 @@ In this task, you will be modifying the container permissions to Microsoft Entra
 
 1. After the deployment script has completed, in the Azure portal, go to the **analyticsxxxxx** resource group that is created, and notice that this resource group contains your Synapse workspace, a Storage account for your data lake, and an Apache Spark pool.
 
-
-      ![Azure portal with a cloud shell pane](./images/DA-image70.png) 
+    ![Azure portal with a cloud shell pane](./images/DA-image70.png) 
    
 3. Select the **Storage account** named **datalakexxxxxxx**  
 
